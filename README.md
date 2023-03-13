@@ -7,5 +7,5 @@ This repository contains three scripts named:
 The first script is used to get the distribution of rate and distribution of radioactive decay. The second scripts is for the likelihood of the
 two hypotheses, and third script is for the log likelihood ratio for two different hypotheses.
 
-#Usage
+# Usage
 Go to the jupyter notebook to run all the three scripts.
